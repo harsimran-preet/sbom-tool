@@ -47,7 +47,7 @@
 
 ### **1. Clone the Repository**
 
-git clone https://github.com/YourUsername/sbom-tool.git
+git clone https://github.com/harsimran-preet/sbom-tool   
 
 cd sbom-tool
 
