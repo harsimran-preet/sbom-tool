@@ -1,6 +1,3 @@
----
-
-
 # **SBOM-Tool**
 
 **SBOM-Tool** is a Java-based command-line application that:
