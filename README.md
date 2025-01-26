@@ -108,8 +108,6 @@ java -jar target/sbom-tool-1.0-SNAPSHOT.jar \
 
 ## **Docker Instructions**
 
-    **NOTE**: The recruiter asked for a Docker image. This means you can either **publish** the image to a public registry (like Docker Hub) or simply provide the Dockerfile so they can build it themselves.
-
 ### **1. Build the Docker Image Locally**
 
 From the project root (where the `Dockerfile` is located):
